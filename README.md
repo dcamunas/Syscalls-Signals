@@ -7,7 +7,8 @@ La compilación y ejecución se realiza de forma automática gracias a la herram
 
 ## Descripción
 Esta práctica perteneciente al laboratorio de la asignatura de Sistemas Operativos II (SSOO II) de ESI - UCLM.   
-Cuyo objetivo es comprender el manejo de las distintas llamadas al sistema y señales, además tambien se han utilizado diversas funciones que nos ofrecen las librerias del lenguaje C.
+Cuyo objetivo es comprender el manejo de las distintas llamadas al sistema y señales, junto diversas funciones que nos ofrecen las librerias del lenguaje C.  
+Además también se ha estudiado el modelo de programación concurrente, en este caso, con la ejecución de varios procesos de forma paralela.
 
 ## Creación de directorios necesarios
 Con este comando se crearan los directorios de las clases objeto (*.o), al igual que el directorio que contiene los ejecutables.  
